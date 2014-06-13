@@ -5,7 +5,7 @@
 #######################################################################
 
 # Use the centos base image
-FROM fedora
+FROM centos
 
 MAINTAINER kpeeples <kpeeples@redhat.com>
 
