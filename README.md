@@ -1,6 +1,16 @@
 ## dv-docker
 This project builds a [docker](http://www.docker.io) container for running [JBoss Data Virtualization](http://http://www.redhat.com/products/jbossenterprisemiddleware/data-virtualization/) 6.0.0.GA.
 
+## Fedora base
+Using a Fedora base gives an error message as indicated 
+
+It works properly with centos.  We will do more testing with fedora.
+Error:
+Redirecting to /bin/systemctl start mysqld.service
+Failed to get D-Bus connection: No connection to service manager. 
+
+Related to https://bugzilla.redhat.com/show_bug.cgi?id=1033604
+
 ## Prerequisites
 1. Install [Docker](https://www.docker.io/gettingstarted/#1)
 2. Download JBoss Data Virtualization from [jboss.org.](http://jboss.org/products/#IBP)
