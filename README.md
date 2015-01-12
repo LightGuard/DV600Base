@@ -1,3 +1,10 @@
+Title: JBoss Data Virtualization Docker
+Author: Kenneth Peeples
+Summary: Build a Docker container for running JBoss Data Virtualization.
+Level: Intermediate
+Technologies: Data Virtualization, Docker
+Target Product: datavirt
+
 ## dv-docker
 This project builds a [docker](http://www.docker.io) container for running [JBoss Data Virtualization](http://http://www.redhat.com/products/jbossenterprisemiddleware/data-virtualization/) 6.0.0.GA.
 
