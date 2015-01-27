@@ -1,4 +1,4 @@
-Title: JBoss Data Virtualization Docker
+# JBoss Data Virtualization Docker
 Author: Kenneth Peeples
 Summary: Build a Docker container for running JBoss Data Virtualization.
 Level: Intermediate
